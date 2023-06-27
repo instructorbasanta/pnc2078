@@ -1,0 +1,16 @@
+a{
+	display: inline;
+	background: #6665aa;
+	color: #fff;
+	padding: 10px;
+	text-decoration: none;
+	margin: 5px;
+}
+
+#f{
+	margin-left: 0;
+}
+
+a:hover{
+	background: #6a5;
+}

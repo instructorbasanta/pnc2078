@@ -1,0 +1,33 @@
+/*Universal selector*/
+*{
+	margin: 0;
+}
+/*type/element/name/tag selector*/
+body{
+	background: gray;
+}
+
+h1{
+	background: cyan;
+	text-align: center;
+}
+
+h2{
+	color: white;
+}
+
+p{
+	border: 1px solid;
+}
+
+/*class selector*/
+
+.margin-style{
+	margin: 20px;
+}
+
+/*ID selector*/
+
+#mission{
+	color: blue;
+}

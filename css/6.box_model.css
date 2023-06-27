@@ -1,0 +1,19 @@
+/*Universal selector*/
+*{
+	margin: 0;
+}
+/*element selector*/
+h1{
+	color: #fff;
+	margin: 0;
+	background-color: #27baab;
+	border-radius: 50px;
+	padding: 50px;
+	margin: 25px;
+	text-align: center;
+	margin-left: 80px;
+	/*border-left: 10px solid red;
+	border-right: 5px solid yellow;
+	border-top: 3px dashed #a26;
+	border-bottom: 3px dotted #a26;*/
+}
